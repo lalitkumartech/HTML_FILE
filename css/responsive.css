@@ -1,0 +1,23 @@
+@media (min-width: 481px) and (max-width: 768px) {
+    button#myBtn {
+        padding: 10px;
+        margin-top: 20%;
+        margin-left: 40%;
+        background-color: #ff00d4;
+        border-radius: 25px;
+        border: 1px solid;
+        color: #fff;
+      }
+  }
+
+  @media (min-width: 320px) and (max-width: 480px) {
+    button#myBtn {
+        padding: 10px;
+        margin-top: 20%;
+        margin-left: 40%;
+        background-color: #ff00d4;
+        border-radius: 25px;
+        border: 1px solid;
+        color: #fff;
+      }
+  }
